@@ -1,3 +1,5 @@
+# School District Data Analysis
+
 ## Contents
 - [Overview of the Project](#overview)
 - [Files](#files)

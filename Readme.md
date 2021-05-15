@@ -43,17 +43,17 @@ Eliminating the 9th grade scores of Thomas High School resulted  in slightly low
 
 
 #### Spending Level Impact 
-Minimal to no impact was observed when viewing scores by spending levels. Thomas High Schools falls in the 630-644 spending range. The passing percentage decreased by 0.1 percent in each of the categories due to the 9th grade score replacement.
+Minimal to no impact was observed when viewing scores by spending levels. Thomas High Schools falls in the $630-644 spending range. The passing percentage decreased by 0.1%  in each of the categories due to the 9th grade score replacement.
 
 ![Scores By Spending Level](Resources/Scores_By_Spending_Level.png)
 
 #### School Size Impact
-Thomas High School falls in the Medium sized schools category. Again, minimal impact of <0.5 percent was observed in this category.
+Thomas High School falls in the Medium sized schools category. Again, minimal impact of <0.5% was observed in this category.
 
 ![Scores By School Size](Resources/Scores_By_School_Size.png)
 
 #### School Type Impact
-Thomas High is a charter school. Impact of <0.1 percent was observed in this category.
+Thomas High is a charter school. Impact of <0.1% was observed in this category.
 
 ![Scores By School Type](Resources/Scores_By_School_Type.png)
 
@@ -61,6 +61,6 @@ Thomas High is a charter school. Impact of <0.1 percent was observed in this cat
 ### Summary of Changes
 Following is a summary of chnages with the elimination of Thomas High School 9th grade scores: 
 1. Ninth grade average scores across the disctrict dropped slightly.
-2. Average passing percentage for schools with spending in the 630-644 range dropped by 0.1%.
+2. Average passing percentage for schools with spending in the $630-644 range dropped by 0.1%.
 3. Medium sized schools saw a slight drop in overall passing percentage.
 4. Charter schools' overall passing percentage was slightly impacted (<0.1%).

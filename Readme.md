@@ -59,7 +59,7 @@ Thomas High is a charter school. Impact of <0.1% was observed in this category.
 
 
 ### Summary of Changes
-Following is a summary of chnages with the elimination of Thomas High School 9th grade scores: 
+Following is a summary of changes with the elimination of Thomas High School 9th grade scores: 
 1. Ninth grade average scores across the disctrict dropped slightly.
 2. Average passing percentage for schools with spending in the $630-644 range dropped by 0.1%.
 3. Medium sized schools saw a slight drop in overall passing percentage.
